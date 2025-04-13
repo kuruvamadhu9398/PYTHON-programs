@@ -1,0 +1,4 @@
+import decimal
+integer=10
+print(decimal.Decimal(ineger))
+print(type(decimal.Decimal(integer)))
